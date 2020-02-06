@@ -139,7 +139,7 @@
                   <Font name="Monospaced" size="20" style="0"/>
                 </Property>
                 <Property name="rows" type="int" value="5"/>
-                <Property name="text" type="java.lang.String" value="   Excel International Schools is an award winning School,&#xa;   they offer quality Education you can ever imagine.&#xa;       Enrol Now for your Quality Certificate !!!!"/>
+                <Property name="text" type="java.lang.String" value="   Excel International Schools is an award winning School,&#xa;   they offer quality Education you can ever imagine.&#xa;       Enrol Now for your Quality Certificate !!"/>
               </Properties>
             </Component>
           </SubComponents>

@@ -150,6 +150,7 @@ public class ListOfStudents extends javax.swing.JFrame {
     private void pthomasMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_pthomasMouseClicked
         // TODO add your handling code here:
         try {
+            
             con = dbConnect.getConnection();
             ps = con.prepareStatement("Select email, password, cpassword, name from student_signup where email = ?");
             ps.setString(1, StudentSignIn.txtEmail.getText());

@@ -71,7 +71,7 @@ public class Home extends javax.swing.JFrame {
         jTextArea1.setColumns(20);
         jTextArea1.setFont(new java.awt.Font("Monospaced", 0, 20)); // NOI18N
         jTextArea1.setRows(5);
-        jTextArea1.setText("   Excel International Schools is an award winning School,\n   they offer quality Education you can ever imagine.\n       Enrol Now for your Quality Certificate !!!!");
+        jTextArea1.setText("   Excel International Schools is an award winning School,\n   they offer quality Education you can ever imagine.\n       Enrol Now for your Quality Certificate !!");
         jScrollPane1.setViewportView(jTextArea1);
 
         jPanel1.add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 170, 730, 150));
